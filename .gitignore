@@ -1,0 +1,4 @@
+nodemon.json
+uploads
+node_modules
+package-lock.json
